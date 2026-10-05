@@ -1,0 +1,32 @@
+[
+    {
+        "customer_id": "C10001",
+        "name": "张先生",
+        "age": 28,
+        "city": "上海",
+        "occupation": "互联网从业者",
+        "income_level": "中等",
+        "historical_behavior": "曾申请过信用卡",
+        "current_product": "无"
+    },
+    {
+        "customer_id": "C10002",
+        "name": "李女士",
+        "age": 32,
+        "city": "北京",
+        "occupation": "教师",
+        "income_level": "中等",
+        "historical_behavior": "有信用卡使用记录",
+        "current_product": "普通信用卡"
+    },
+    {
+        "customer_id": "C10003",
+        "name": "王先生",
+        "age": 35,
+        "city": "深圳",
+        "occupation": "工程师",
+        "income_level": "较高",
+        "historical_behavior": "有消费贷款记录",
+        "current_product": "无"
+    }
+]

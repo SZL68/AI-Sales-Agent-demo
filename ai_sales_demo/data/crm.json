@@ -1,0 +1,32 @@
+[
+    {
+        "customer_id": "C10001",
+        "lead_status": "已联系",
+        "intent_level": "高",
+        "follow_up_status": "重点跟进",
+        "last_contact": "2026-09-15",
+        "contact_count": 10,
+        "last_result": "客户咨询产品信息：你是谁",
+        "next_action": "继续了解客户需求"
+    },
+    {
+        "customer_id": "C10002",
+        "lead_status": "已联系",
+        "intent_level": "高",
+        "follow_up_status": "重点跟进",
+        "last_contact": "2026-09-18",
+        "contact_count": 2,
+        "last_result": "客户对信用卡比较感兴趣",
+        "next_action": "进一步介绍申请流程"
+    },
+    {
+        "customer_id": "C10003",
+        "lead_status": "未联系",
+        "intent_level": "未知",
+        "follow_up_status": "待联系",
+        "last_contact": null,
+        "contact_count": 0,
+        "last_result": "",
+        "next_action": "首次联系"
+    }
+]
